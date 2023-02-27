@@ -1,0 +1,60 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+#topbanner {
+	position: relative;
+}
+
+#logo, #topBanner > div, h1, #topBanner > h2 {
+	position: absolute;
+}
+
+#banner {
+	width: 100%;
+}
+
+#logo {
+	height: 180px;
+	position: absolute;
+	z-index: 2;
+}
+
+.place {
+	height: 330px;
+	width: 330px;
+	border-radius: 20px;
+	object-fit: cover;
+}
+
+#secondBanner {
+	height: 400px;
+	width: 98%;
+	border-radius: 20px;
+	object-fit: cover;
+}
+
+ol, li {
+	list-style-type: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+p {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.set2{
+	text-align: center;
+}
