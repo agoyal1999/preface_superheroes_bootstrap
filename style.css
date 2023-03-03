@@ -58,3 +58,16 @@ p {
 .set2{
 	text-align: center;
 }
+
+.card{
+	border: 0;
+	padding-bottom: 50px;
+}
+
+.card-text{
+	text-align: justify;
+}
+
+.description{
+	text-align: justify;
+}
